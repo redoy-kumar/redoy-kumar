@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **html,css,javascript and react**
+- 💬 Ask me about **html, css, javascript and react**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
