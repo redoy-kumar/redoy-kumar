@@ -1,5 +1,9 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
-<h1 align="center">Hi 👋, I'm Redoy Kumar</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋, +I'm+Redoy+Kumar!;"/>
+</h1>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MdMuzahidul&show_icons=true&theme=dark" alt="MdMuzahidul" /><!-- <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=taqui-786&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alter="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
