@@ -1,12 +1,12 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
-<h1 align="center">Hi! 👋, I'm Redoy Kumar!</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi!+%F0%9F%91%8B%2C+I'm+Redoy+Kumar+Das!" alt="Typing SVG" /></a></h1>
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate future MERN stack developer from Bangladesh.</h3>
 <img align="right" alter="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redoy-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="redoy-kumar" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **html, css, javascript and react**
 
